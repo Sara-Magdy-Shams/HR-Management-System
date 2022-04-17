@@ -1,0 +1,9 @@
+﻿using HRMS.ViewModels;
+
+namespace HRMS.services
+{
+    public interface ILogger
+    {
+        Task<string> getToken(LogInViewModel usermodel);  
+    }
+}
