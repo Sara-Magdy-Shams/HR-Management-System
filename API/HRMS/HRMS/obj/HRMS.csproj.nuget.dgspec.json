@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\GitHubRepos\\HRManagementSystem\\API\\HRMS\\HRMS\\HRMS.csproj": {}
+    "D:\\My-GitHub\\HR-Management-System\\API\\HRMS\\HRMS\\HRMS.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\GitHubRepos\\HRManagementSystem\\API\\HRMS\\HRMS\\HRMS.csproj": {
+    "D:\\My-GitHub\\HR-Management-System\\API\\HRMS\\HRMS\\HRMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\GitHubRepos\\HRManagementSystem\\API\\HRMS\\HRMS\\HRMS.csproj",
+        "projectUniqueName": "D:\\My-GitHub\\HR-Management-System\\API\\HRMS\\HRMS\\HRMS.csproj",
         "projectName": "HRMS",
-        "projectPath": "D:\\Learning\\GitHubRepos\\HRManagementSystem\\API\\HRMS\\HRMS\\HRMS.csproj",
+        "projectPath": "D:\\My-GitHub\\HR-Management-System\\API\\HRMS\\HRMS\\HRMS.csproj",
         "packagesPath": "C:\\Users\\Eng Sara\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\GitHubRepos\\HRManagementSystem\\API\\HRMS\\HRMS\\obj\\",
+        "outputPath": "D:\\My-GitHub\\HR-Management-System\\API\\HRMS\\HRMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eng Sara\\AppData\\Roaming\\NuGet\\NuGet.Config",

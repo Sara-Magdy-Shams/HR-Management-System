@@ -32,7 +32,7 @@ namespace HRMS.Controllers
         }
 
         // GET: api/Users/5
-        [HttpGet("{id}")]
+        [HttpGet("{email}")]
         public async Task<ActionResult<User>> GetUser(string email)
         {
             try { return await _repo.GetUserByEmail(email); }
